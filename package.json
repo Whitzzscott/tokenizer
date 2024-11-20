@@ -11,6 +11,9 @@
     "axios": "^1.4.0",
     "body-parser": "^1.20.2"
   },
+  "devDependencies": {
+    "concurrently": "^8.0.0"
+  },
   "author": "",
   "license": "ISC"
 }
